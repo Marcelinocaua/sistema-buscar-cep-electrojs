@@ -17,7 +17,7 @@ h1{
 img {
     width: 120px;
 }
-div{
+.divisoria{
     border-top: solid #E559f9 3px;
     width: 100px;
 
@@ -58,4 +58,10 @@ input{
     border-radius: 8px;
     font-weight: bold;
     border: 1px solid  #bdbbbb;
+}
+
+.tabela-ceps{
+    margin-top: 40px;
+    width: 500px;
+    text-align: center;
 }
